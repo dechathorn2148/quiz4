@@ -1,0 +1,16 @@
+[
+    {
+        "username": "Dechathorn",
+        "password": "123456",
+        "firstname": "Dechathorn",
+        "lastname": "Intravijit",
+        "balance": 85000
+    },
+    {
+        "username": "Uakarn",
+        "password": "123456",
+        "firstname": "Uakarn",
+        "lastname": "Lawmakmak",
+        "balance": 25000
+    }
+]
